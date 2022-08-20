@@ -5,15 +5,15 @@
 
 function test($att){
     $arr=array(
-        'mahmoud'=>'my husband',
-        'athar'=>'my wife'
+        'name'=>'test name1',
+        'name2'=>'test name2'
 
     );
     return $arr[$att];
 }
 
-/*$arr=array('athar'=>'zero-one');
-echo $arr['athar'];
+/*$arr=array('name2'=>'zero-one');
+echo $arr['name2'];
 */
 
 ?>
